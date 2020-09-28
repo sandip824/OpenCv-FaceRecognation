@@ -41,5 +41,6 @@ the final phase  is to recognize the face.we will capture a fresh face on our ca
 This project uses Open Source components. You can find the source code of their open source project along with license information below. We acknowledge and are grateful to these developers for their contributions to open source.
 
 Project: OpenCV-Face-Recognition https://github.com/Mjrovai/OpenCV-Face-Recognition
+
 tutorial:https://towardsdatascience.com/real-time-face-recognition-an-end-to-end-project-b738bb0f7348
 
