@@ -14,7 +14,10 @@ pip install -r requirment.txt
 
 To create a complete project on Face Recognition, we must work on 3 very distinct phases:
 
-![Figure](figures/network.png)
+
+
+
+![Implimentation steps](figures/steps.png)
 
 #### 1. Face Detection and Data Gathering
 The basic tas of face recognation is to detect the face from the video feed.The most common way to detect a face (or any objects), is using the “Haar Cascade classifier”.
